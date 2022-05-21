@@ -1,0 +1,9 @@
+# deps
+node_modules
+venv
+# testing
+coverage
+# production
+build
+# vscode debugger
+.vscode/launch.json
