@@ -1,5 +1,7 @@
+import { Outlet } from "react-router-dom";
+
 const Settings = (): JSX.Element => {
-  return <div>Settings</div>;
+  return <Outlet />;
 };
 
 export default Settings;
